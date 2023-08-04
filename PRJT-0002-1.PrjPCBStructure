@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=[ProjectName].SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=[ProjectName].SchDoc|FileName=[ProjectName].SchDoc|SheetNumber=1
