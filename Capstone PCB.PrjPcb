@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=4
+HierarchyMode=3
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Production
 
 [Preferences]
 PrefsVaultGUID=
@@ -151,28 +152,37 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=B1D12614-98EA-457C-9998-A05165A58874
+Description=Production
+AllowFabrication=1
+ParameterCount=0
+VariationCount=0
+AllowVariationPastMask=1
+ParamVariationCount=0
+
 [Parameter1]
-Name=DrawDate
+Name=WBS
 Value=
 
 [Parameter2]
-Name=ProjectApprover
-Value=
-
-[Parameter3]
-Name=ProjectDrawer
-Value=
-
-[Parameter4]
-Name=ProjectRevision
-Value=
-
-[Parameter5]
 Name=ProjectTitle
 Value=
 
+[Parameter3]
+Name=ProjectRevision
+Value=V1.0
+
+[Parameter4]
+Name=ProjectDrawer
+Value=
+
+[Parameter5]
+Name=ProjectApprover
+Value=
+
 [Parameter6]
-Name=WBS
+Name=DrawDate
 Value=
 
 [Configuration1]
