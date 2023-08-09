@@ -196,27 +196,27 @@ AllowVariationPastMask=1
 ParamVariationCount=0
 
 [Parameter1]
-Name=WBS
+Name=DrawDate
 Value=
 
 [Parameter2]
-Name=ProjectTitle
-Value=
-
-[Parameter3]
-Name=ProjectRevision
-Value=V1.0
-
-[Parameter4]
-Name=ProjectDrawer
-Value=
-
-[Parameter5]
 Name=ProjectApprover
 Value=
 
+[Parameter3]
+Name=ProjectDrawer
+Value=
+
+[Parameter4]
+Name=ProjectRevision
+Value=V1.0
+
+[Parameter5]
+Name=ProjectTitle
+Value=
+
 [Parameter6]
-Name=DrawDate
+Name=WBS
 Value=
 
 [Configuration1]
