@@ -276,8 +276,10 @@ UniqueID=B1D12614-98EA-457C-9998-A05165A58874
 Description=Production
 AllowFabrication=1
 ParameterCount=0
-VariationCount=0
+VariationCount=2
 AllowVariationPastMask=1
+Variation1=Designator=R?|UniqueId=\NSCVWGBI|Kind=1|AlternatePart= 
+Variation2=Designator=R?|UniqueId=\VAXJKAGN|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
