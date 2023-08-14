@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:45:52 PM On 8/14/2023
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Capstone PCB.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 5:45:56 PM On 8/14/2023
