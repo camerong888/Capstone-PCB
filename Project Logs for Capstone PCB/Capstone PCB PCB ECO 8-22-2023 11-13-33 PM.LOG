@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J3 Old Footprint=0022284067-Footprint-1 New Footprint=0022284067-Footprint-1
+Change Component Footprint: Designator=J4 Old Footprint=0022284067-Footprint-1 New Footprint=0022284067-Footprint-1
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB Old ItemGUID=cbfcc2ad-3019-42af-b652-f92285ae1d99 New ItemGUID=cbfcc2ad-3019-42af-b652-f92285ae1d99 Old RevisionGUID=722ef457-870b-425b-b0a6-74489d1ef8da New RevisionGUID=3d89d58d-bc7a-4a59-9e3c-e0d132fa4a3e
+Change Managed Component Library Link : Designator=J4 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB Old ItemGUID=cbfcc2ad-3019-42af-b652-f92285ae1d99 New ItemGUID=cbfcc2ad-3019-42af-b652-f92285ae1d99 Old RevisionGUID=722ef457-870b-425b-b0a6-74489d1ef8da New RevisionGUID=3d89d58d-bc7a-4a59-9e3c-e0d132fa4a3e
