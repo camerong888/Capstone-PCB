@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J1 Old Footprint=AMPH-901-143-6RFX_V New Footprint=AMPH-901-143-6RFX_V
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB Old ItemGUID=661f8762-51e5-4316-bb0f-d89df86dbd47 New ItemGUID=661f8762-51e5-4316-bb0f-d89df86dbd47 Old RevisionGUID=1e141c74-4369-4107-a76c-57208f9b1d94 New RevisionGUID=fba76075-e0ca-4d5a-bebf-3c8d198e31c4
+Change component parameters: Designator = "J1" ("J1"); Footprint = "AMPH-901-143-6RFX_V"; UniqueID = "\NMIHOCEW" ("\NMIHOCEW")
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "0A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "0V"; VariantName = "[No Variations]"
