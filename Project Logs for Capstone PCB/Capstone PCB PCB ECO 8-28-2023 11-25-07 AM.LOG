@@ -1,0 +1,456 @@
+Removed Pin From Net: NetName=VBUS Pin=R22-1
+Removed Pin From Net: NetName=PWR_SRC Pin=R23-1
+Removed Pin From Net: NetName=PWR_SEL Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=R26-2
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Pin From Net: NetName=FB Pin=R29-1
+Removed Pin From Net: NetName=GND Pin=R29-2
+Removed Pin From Net: NetName=THERM Pin=R30-1
+Removed Pin From Net: NetName=VBUS Pin=R31-1
+Removed Pin From Net: NetName=CHARGE_STAT1 Pin=R31-2
+Removed Pin From Net: NetName=VBUS Pin=R32-1
+Removed Pin From Net: NetName=CHARGE_STAT2 Pin=R32-2
+Removed Pin From Net: NetName=GND Pin=R33-2
+Removed Pin From Net: NetName=GND Pin=R34-2
+Removed Pin From Net: NetName=CHARGE_PROG Pin=R36-1
+Removed Pin From Net: NetName=GND Pin=R36-2
+Removed Pin From Net: NetName=PPS Pin=R37-2
+Removed Pin From Net: NetName=PWR_SEL Pin=R53-1
+Removed Pin From Net: NetName=SOC Pin=R53-2
+Removed Pin From Net: NetName=SOC Pin=R54-1
+Removed Pin From Net: NetName=GND Pin=R54-2
+Removed Member From Class: ClassName=Power Management Member=LED1
+Removed Member From Class: ClassName=Power Management Member=LED2
+Removed Member From Class: ClassName=Communication Member=LED3
+Removed Member From Class: ClassName=Communication Member=R37
+Removed Member From Class: ClassName=Communication Member=R43
+Removed Member From Class: ClassName=Power Management Member=R53
+Removed Member From Class: ClassName=Power Management Member=R54
+Change Component Footprint: Designator=R27 Old Footprint=0603 Resistor New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R37 Old Footprint=0603 Resistor New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R43 Old Footprint=0603 Resistor New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R28 Old Footprint=0603 Resistor New Footprint=RESC2013X70X40ML20T20
+Change Component Footprint: Designator=R23 Old Footprint=FP-RC0402-0_4-IPC_C New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R30 Old Footprint=FP-RC0402-0_4-IPC_C New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R31 Old Footprint=FP-RC0402-0_4-IPC_C New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R32 Old Footprint=FP-RC0402-0_4-IPC_C New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R33 Old Footprint=FP-RC0402-0_4-IPC_C New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R34 Old Footprint=FP-RC0402-0_4-IPC_C New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R35 Old Footprint=FP-RC0402-0_4-IPC_C New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R36 Old Footprint=FP-RC0402-0_4-IPC_C New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R53 Old Footprint=FP-RC0805-0_6-MFG New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R29 Old Footprint=FP-RC0805-0_6-MFG New Footprint=RESC2013X70X40ML20T20
+Change Component Footprint: Designator=R22 Old Footprint=RESC1005X40X25ML05T05 New Footprint=RESC2013X60X35ML10T20
+Change Component Footprint: Designator=R26 Old Footprint=RESC1005X40X25ML05T05 New Footprint=RESC2013X70X40ML20T20
+Change Component Comment : Designator=R32 Old Comment=10k New Comment=RC0805JR-070RL
+Change Component Comment : Designator=R36 Old Comment=10k New Comment=RC0805JR-070RL
+Change Component Comment : Designator=R23 Old Comment=10k New Comment=RC0805JR-0710KL
+Change Component Comment : Designator=R33 Old Comment=10k New Comment=RC0805JR-0710KL
+Change Component Comment : Designator=R34 Old Comment=10k New Comment=RC0805JR-0710KL
+Change Component Comment : Designator=R35 Old Comment=10k New Comment=RC0805JR-0710KL
+Change Component Comment : Designator=R30 Old Comment=10k New Comment=RC0805JR-07200RL
+Change Component Comment : Designator=R31 Old Comment=10k New Comment=RC0805JR-07200RL
+Change Component Comment : Designator=R26 Old Comment=100k New Comment=ERJ-6ENF1003V
+Change Component Comment : Designator=R22 Old Comment=100k New Comment=RC0805JR-0710KL
+Change Component Comment : Designator=R37 Old Comment=CRGCQ0603J33R New Comment=RC0805JR-0710KL
+Change Component Comment : Designator=R28 Old Comment=ERJ-PA3F4700V New Comment=ERJ-6ENF1003V
+Change Component Comment : Designator=R27 Old Comment=ERJ-PA3F4700V New Comment=RC0805JR-0710KL
+Change Component Comment : Designator=R43 Old Comment=ERJ-PA3F4700V New Comment=RC0805JR-0710KL
+Change Component Comment : Designator=R29 Old Comment=RC0805JR-07100KL New Comment=ERJ-6ENF1003V
+Change Component Comment : Designator=R53 Old Comment=RC0805JR-07100KL New Comment=RC0805FR-07374RL
+Change Component Designator: OldDesignator=MD1 NewDesignator=U5
+Change Component Designator: OldDesignator=P3 NewDesignator=J5
+Change Component Designator: OldDesignator=P4 NewDesignator=J6
+Change Component Designator: OldDesignator=P5 NewDesignator=J7
+Change Managed Component Library Link : Designator=R22 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=0254B91C-8E87-4584-8A77-659ED849DAF3 New ItemGUID=F67337B7-1964-4254-8A8E-397C8FD82CDB Old RevisionGUID=25425090-D141-4774-8119-452294E1399C New RevisionGUID=B7731758-3B90-48E6-ADF9-74525FFC2A01
+Change Managed Component Library Link : Designator=R23 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3ED1D6A8-E821-4B08-908B-5F440EEBA524 New ItemGUID=F67337B7-1964-4254-8A8E-397C8FD82CDB Old RevisionGUID=EF4E563E-C58C-4148-925D-F5CFF6958EE3 New RevisionGUID=B7731758-3B90-48E6-ADF9-74525FFC2A01
+Change Managed Component Library Link : Designator=R26 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=0254B91C-8E87-4584-8A77-659ED849DAF3 New ItemGUID=56F3CC68-D6A5-42BD-B504-B8F09B455ED4 Old RevisionGUID=25425090-D141-4774-8119-452294E1399C New RevisionGUID=DCBF2163-694C-40D1-8022-3E1A99F6D2A6
+Change Managed Component Library Link : Designator=R29 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8C1CD565-FBAD-4D3E-91A9-C39C5EB56CA6 New ItemGUID=56F3CC68-D6A5-42BD-B504-B8F09B455ED4 Old RevisionGUID=53FD1BD7-1DEF-4688-B840-B893DEE7049F New RevisionGUID=DCBF2163-694C-40D1-8022-3E1A99F6D2A6
+Change Managed Component Library Link : Designator=R30 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3ED1D6A8-E821-4B08-908B-5F440EEBA524 New ItemGUID=01546ED5-B310-47C3-8345-0D644F92797C Old RevisionGUID=EF4E563E-C58C-4148-925D-F5CFF6958EE3 New RevisionGUID=98068A6E-70A6-40BB-B294-3056011A25CF
+Change Managed Component Library Link : Designator=R31 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3ED1D6A8-E821-4B08-908B-5F440EEBA524 New ItemGUID=01546ED5-B310-47C3-8345-0D644F92797C Old RevisionGUID=EF4E563E-C58C-4148-925D-F5CFF6958EE3 New RevisionGUID=98068A6E-70A6-40BB-B294-3056011A25CF
+Change Managed Component Library Link : Designator=R32 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3ED1D6A8-E821-4B08-908B-5F440EEBA524 New ItemGUID=4751AF0F-8409-4D95-BAA8-3305B8560E55 Old RevisionGUID=EF4E563E-C58C-4148-925D-F5CFF6958EE3 New RevisionGUID=3D16756C-5944-4C2C-BE8D-13A414C77E61
+Change Managed Component Library Link : Designator=R33 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3ED1D6A8-E821-4B08-908B-5F440EEBA524 New ItemGUID=F67337B7-1964-4254-8A8E-397C8FD82CDB Old RevisionGUID=EF4E563E-C58C-4148-925D-F5CFF6958EE3 New RevisionGUID=B7731758-3B90-48E6-ADF9-74525FFC2A01
+Change Managed Component Library Link : Designator=R34 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3ED1D6A8-E821-4B08-908B-5F440EEBA524 New ItemGUID=F67337B7-1964-4254-8A8E-397C8FD82CDB Old RevisionGUID=EF4E563E-C58C-4148-925D-F5CFF6958EE3 New RevisionGUID=B7731758-3B90-48E6-ADF9-74525FFC2A01
+Change Managed Component Library Link : Designator=R35 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3ED1D6A8-E821-4B08-908B-5F440EEBA524 New ItemGUID=F67337B7-1964-4254-8A8E-397C8FD82CDB Old RevisionGUID=EF4E563E-C58C-4148-925D-F5CFF6958EE3 New RevisionGUID=B7731758-3B90-48E6-ADF9-74525FFC2A01
+Change Managed Component Library Link : Designator=R36 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3ED1D6A8-E821-4B08-908B-5F440EEBA524 New ItemGUID=4751AF0F-8409-4D95-BAA8-3305B8560E55 Old RevisionGUID=EF4E563E-C58C-4148-925D-F5CFF6958EE3 New RevisionGUID=3D16756C-5944-4C2C-BE8D-13A414C77E61
+Change Managed Component Library Link : Designator=R53 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=8C1CD565-FBAD-4D3E-91A9-C39C5EB56CA6 New ItemGUID=ED32DC98-8BFA-4A0E-BC9F-C475C521F07E Old RevisionGUID=53FD1BD7-1DEF-4688-B840-B893DEE7049F New RevisionGUID=3BB5A152-C748-44D4-B4BA-93E679C3B7F7
+Change Managed Component Library Link : Designator=R27 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=877b2fbc-f59c-4a14-b350-8d40d2ebd6a5 New ItemGUID=F67337B7-1964-4254-8A8E-397C8FD82CDB Old RevisionGUID=7AD28411-1D4C-4641-BEC2-57F159F9F719 New RevisionGUID=B7731758-3B90-48E6-ADF9-74525FFC2A01
+Change Managed Component Library Link : Designator=R28 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=877b2fbc-f59c-4a14-b350-8d40d2ebd6a5 New ItemGUID=56F3CC68-D6A5-42BD-B504-B8F09B455ED4 Old RevisionGUID=7AD28411-1D4C-4641-BEC2-57F159F9F719 New RevisionGUID=DCBF2163-694C-40D1-8022-3E1A99F6D2A6
+Change Managed Component Library Link : Designator=R37 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=28de0f62-7643-48bc-af4f-22b01b1966ba New ItemGUID=F67337B7-1964-4254-8A8E-397C8FD82CDB Old RevisionGUID=8bd37519-04b7-4f89-9e06-664c8c080b64 New RevisionGUID=B7731758-3B90-48E6-ADF9-74525FFC2A01
+Change Managed Component Library Link : Designator=R43 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=877b2fbc-f59c-4a14-b350-8d40d2ebd6a5 New ItemGUID=F67337B7-1964-4254-8A8E-397C8FD82CDB Old RevisionGUID=7AD28411-1D4C-4641-BEC2-57F159F9F719 New RevisionGUID=B7731758-3B90-48E6-ADF9-74525FFC2A01
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RESC1005X40X25ML05T05"; UniqueID = "\UTBGNBAT" ("\UTBGNBAT")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.ru/pdf/RC0805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "REV. 2, 09/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL1-Unlimited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "RCSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Case Style"; Value = "0805[2012Metric]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Element Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "FP-RC0402-0_4-IPC_C"; UniqueID = "\UJSXXCPB" ("\UJSXXCPB")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.ru/pdf/RC0805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "REV. 2, 09/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL1-Unlimited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "RCSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Case Style"; Value = "0805[2012Metric]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Element Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RESC1005X40X25ML05T05"; UniqueID = "\VLUSJSTA" ("\VLUSJSTA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF1003V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "0603 Resistor"; UniqueID = "\BVMEGVMY" ("\BVMEGVMY")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.ru/pdf/RC0805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "REV. 2, 09/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL1-Unlimited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "RCSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Case Style"; Value = "0805[2012Metric]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Element Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R28" ("R28"); Footprint = "0603 Resistor"; UniqueID = "\CPLRHQHX" ("\CPLRHQHX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF1003V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "FP-RC0805-0_6-MFG"; UniqueID = "\IZYSBPET" ("\IZYSBPET")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-6ENF1003V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "FP-RC0402-0_4-IPC_C"; UniqueID = "\PVNFRANN" ("\PVNFRANN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805JR-07200RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "FP-RC0402-0_4-IPC_C"; UniqueID = "\YKYTWLZJ" ("\YKYTWLZJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805JR-07200RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R32" ("R32"); Footprint = "FP-RC0402-0_4-IPC_C"; UniqueID = "\IDIKDVOW" ("\IDIKDVOW")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 5, 10/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/degreesC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "FP-RC0402-0_4-IPC_C"; UniqueID = "\SNXWEOXZ" ("\SNXWEOXZ")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.ru/pdf/RC0805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "REV. 2, 09/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL1-Unlimited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "RCSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Case Style"; Value = "0805[2012Metric]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Element Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "FP-RC0402-0_4-IPC_C"; UniqueID = "\WAIJQESH" ("\WAIJQESH")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.ru/pdf/RC0805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "REV. 2, 09/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL1-Unlimited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "RCSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Case Style"; Value = "0805[2012Metric]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Element Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "FP-RC0402-0_4-IPC_C"; UniqueID = "\JUXOMWKW" ("\JUXOMWKW")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.ru/pdf/RC0805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "REV. 2, 09/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL1-Unlimited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "RCSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Case Style"; Value = "0805[2012Metric]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Element Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R36" ("R36"); Footprint = "FP-RC0402-0_4-IPC_C"; UniqueID = "\XZGPXXBR" ("\XZGPXXBR")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/NewPortal/yageodocoutput?fileName=/pdf/R-Chip/PYu-RC_Group_51_RoHS_L_5.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 5, 10/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/degreesC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R37" ("R37"); Footprint = "0603 Resistor"; UniqueID = "\IVJDDKKX" ("\IVJDDKKX")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.ru/pdf/RC0805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "REV. 2, 09/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL1-Unlimited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "RCSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Case Style"; Value = "0805[2012Metric]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Element Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43" ("R43"); Footprint = "0603 Resistor"; UniqueID = "\EMJCFWSB" ("\EMJCFWSB")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.ru/pdf/RC0805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "REV. 2, 09/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL1-Unlimited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "RCSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Case Style"; Value = "0805[2012Metric]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Element Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R53" ("R53"); Footprint = "FP-RC0805-0_6-MFG"; UniqueID = "\ZQMMRAFS" ("\ZQMMRAFS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0805FR-07374RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "374"; VariantName = "[No Variations]"
+Added Component: Designator=DS1(LUMX-SML-LXT0805_V)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.lumexinstruments.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.lumex.com/content/files/ProductAttachment/SML-LXT0805GW-TR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. F, 09/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SML-LXT0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25 mm"; VariantName = "[No Variations]"
+Added Component: Designator=DS2(LUMX-SML-LXT0805_V)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.lumexinstruments.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.lumex.com/content/files/ProductAttachment/SML-LXT0805GW-TR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. F, 09/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SML-LXT0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25 mm"; VariantName = "[No Variations]"
+Added Component: Designator=DS3(LTST-C170KRKT_V)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://optoelectronics.liteon.com/upload/download/DS-22-99-0150/LTST-C170KRKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. D, 11/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "631nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Colour"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Colour"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "54mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.us.liteon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "C170KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "75mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "75mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130degrees"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "639nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PWR_SEL Pin=R22-1
+Added Pin To Net: NetName=SOC Pin=R22-2
+Added Pin To Net: NetName=SOC Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=VBUS Pin=R26-2
+Added Pin To Net: NetName=PWR_SRC Pin=R27-1
+Added Pin To Net: NetName=PWR_SEL Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=FB Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=THERM Pin=R32-1
+Added Pin To Net: NetName=VBUS Pin=R33-1
+Added Pin To Net: NetName=CHARGE_STAT1 Pin=R33-2
+Added Pin To Net: NetName=VBUS Pin=R34-1
+Added Pin To Net: NetName=CHARGE_STAT2 Pin=R34-2
+Added Pin To Net: NetName=GND Pin=R36-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=CHARGE_PROG Pin=R43-2
+Added Pin To Net: NetName=GND Pin=R53-2
+Added Pin To Net: NetName=PPS Pin=U5-4
+Change Net Name : Old Net Name=NetMD1_2 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetMD1_3 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetMD1_5 New Net Name=NetR42_1
+Change Net Name : Old Net Name=NetMD1_9 New Net Name=NetR44_2
+Change Net Name : Old Net Name=NetMD1_16 New Net Name=NetR39_1
+Change Net Name : Old Net Name=NetMD1_17 New Net Name=NetR38_1
+Added Pin To Net: NetName=NetDS1_2 Pin=DS1-2
+Added Pin To Net: NetName=NetDS1_2 Pin=R30-2
+Added Net: Name=NetDS1_2
+Added Pin To Net: NetName=NetDS2_2 Pin=DS2-2
+Added Pin To Net: NetName=NetDS2_2 Pin=R31-2
+Added Net: Name=NetDS2_2
+Added Pin To Net: NetName=NetDS3_2 Pin=DS3-2
+Added Pin To Net: NetName=NetDS3_2 Pin=R53-1
+Added Net: Name=NetDS3_2
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=R28-1
+Added Pin To Net: NetName=NetR26_1 Pin=U2-4
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=R36-2
+Added Pin To Net: NetName=NetR32_2 Pin=R37-2
+Added Net: Name=NetR32_2
+Added Member To Class: ClassName=Power Management Member=Component DS1 SML-LXT0805GW-TR
+Added Member To Class: ClassName=Power Management Member=Component DS2 SML-LXT0805GW-TR
+Added Member To Class: ClassName=Communication Member=Component DS3 LTST-C170KRKT
+Added Member To Class: ClassName=Power Management Member=Component R37 RC0805JR-0710KL
+Added Member To Class: ClassName=Power Management Member=Component R43 RC0805JR-0710KL
+Added Member To Class: ClassName=Communication Member=Component R53 RC0805FR-07374RL
