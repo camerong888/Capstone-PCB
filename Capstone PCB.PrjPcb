@@ -276,7 +276,7 @@ UniqueID=B1D12614-98EA-457C-9998-A05165A58874
 Description=Production
 AllowFabrication=1
 ParameterCount=0
-VariationCount=15
+VariationCount=16
 AllowVariationPastMask=1
 Variation1=Designator=R?|UniqueId=\NSCVWGBI|Kind=1|AlternatePart= 
 Variation2=Designator=R?|UniqueId=\VAXJKAGN|Kind=1|AlternatePart= 
@@ -293,6 +293,7 @@ Variation12=Designator=R4|UniqueId=\TOFZKQYW|Kind=1|AlternatePart=
 Variation13=Designator=R5|UniqueId=\FJQEDKSE|Kind=1|AlternatePart= 
 Variation14=Designator=R6|UniqueId=\JQCWKMCJ|Kind=1|AlternatePart= 
 Variation15=Designator=R?|UniqueId=\XZGPXXBR|Kind=1|AlternatePart= 
+Variation16=Designator=J8|UniqueId=\SJGNMNZH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
