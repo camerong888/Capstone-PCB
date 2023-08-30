@@ -1,0 +1,3 @@
+Added Component: Designator=TP12(40 mil Circular Test Point)
+Added Pin To Net: NetName=THERM Pin=TP12-1
+Added Member To Class: ClassName=Power Management Member=Component TP12 0.040" Circular Test Point
