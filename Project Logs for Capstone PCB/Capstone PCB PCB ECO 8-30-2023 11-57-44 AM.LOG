@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=Power Management Member=J1
+Removed Member From Class: ClassName=Communication Member=J2
+Removed Member From Class: ClassName=Power Management Member=J2
+Removed Member From Class: ClassName=Power Management Member=R39
+Added Member To Class: ClassName=Power Management Member=Component J3 S2B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=Power Management Member=Component J4 S2B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=Power Management Member=Component J5 GRPB021VWVN-RC
+Added Member To Class: ClassName=Communication Member=Component J6 901-143-6RFX
+Added Member To Class: ClassName=Power Management Member=Component R24 RC0805JR-0710KL
+Added Member To Class: ClassName=Power Management Member=Component R25 RC0805JR-070RL
+Added Member To Class: ClassName=Power Management Member=Component R26 RC0805JR-0710KL
+Added Member To Class: ClassName=Power Management Member=Component R38 RC0805JR-0710KL
+Added Member To Class: ClassName=Communication Member=Component R40 CRGCQ0603J33R
+Added Member To Class: ClassName=Communication Member=Component R42 CRGCQ0603J33R
+Added Member To Class: ClassName=Communication Member=Component R44 RC0805FR-07374RL
+Added Member To Class: ClassName=Communication Member=Component R46 CRGCQ0603J33R
+Added Member To Class: ClassName=Communication Member=Component R48 CRGCQ0603J33R
+Added Member To Class: ClassName=Communication Member=Component R50 CRGCQ0603J33R
+Added Member To Class: ClassName=Communication Member=Component R52 CRGCQ0603J33R

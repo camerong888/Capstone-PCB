@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=VBUS Pin=R26-2
+Removed Pin From Net: NetName=PWR_SEL Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R28-2
+Change Component Footprint: Designator=R28 Old Footprint=RESC2013X70X40ML20T20 New Footprint=RESC2013X60X35ML10T20
+Change Component Comment : Designator=R28 Old Comment=ERJ-6ENF1003V New Comment=RC0805JR-0710KL
+Change Component Designator: OldDesignator=J1 NewDesignator=J6
+Change Component Designator: OldDesignator=J2 NewDesignator=J8
+Change Component Designator: OldDesignator=J3 NewDesignator=J1
+Change Component Designator: OldDesignator=J4 NewDesignator=J2
+Change Component Designator: OldDesignator=J5 NewDesignator=J3
+Change Component Designator: OldDesignator=J6 NewDesignator=J4
+Change Component Designator: OldDesignator=J8 NewDesignator=J5
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Designator: OldDesignator=R43 NewDesignator=R38
+Change Component Designator: OldDesignator=R44 NewDesignator=R45
+Change Component Designator: OldDesignator=R45 NewDesignator=R46
+Change Component Designator: OldDesignator=R46 NewDesignator=R47
+Change Component Designator: OldDesignator=R47 NewDesignator=R48
+Change Component Designator: OldDesignator=R48 NewDesignator=R49
+Change Component Designator: OldDesignator=R49 NewDesignator=R50
+Change Component Designator: OldDesignator=R50 NewDesignator=R51
+Change Component Designator: OldDesignator=R51 NewDesignator=R52
+Change Component Designator: OldDesignator=R52 NewDesignator=R53
+Change Component Designator: OldDesignator=R53 NewDesignator=R44
+Change Managed Component Library Link : Designator=R28 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=56F3CC68-D6A5-42BD-B504-B8F09B455ED4 New ItemGUID=F67337B7-1964-4254-8A8E-397C8FD82CDB Old RevisionGUID=DCBF2163-694C-40D1-8022-3E1A99F6D2A6 New RevisionGUID=B7731758-3B90-48E6-ADF9-74525FFC2A01
+Change component parameters: Designator = "R28" ("R28"); Footprint = "RESC2013X70X40ML20T20"; UniqueID = "\XLERVVSV" ("\XLERVVSV")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.ru/pdf/RC0805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "REV. 2, 09/2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MSL"; Value = "MSL1-Unlimited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "RCSeries"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Case Style"; Value = "0805[2012Metric]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Element Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC2013X60X35ML10T20)
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.ru/pdf/RC0805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "REV. 2, 09/2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL1-Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "RCSeries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0805[2012Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Type"; Value = "ThickFilm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "ToBeAdvised"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=R24-2
+Added Pin To Net: NetName=3.3V Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=IMU_RST Pin=U1-4
+Added Pin To Net: NetName=IMU_INT Pin=U1-5
+Added Pin To Net: NetName=GNSS_EXTINT Pin=U1-6
+Added Pin To Net: NetName=GNSS_RST Pin=U1-7
+Added Pin To Net: NetName=PWR_SRC Pin=U1-8
+Added Pin To Net: NetName=CHARGE_STAT1 Pin=U1-18
+Added Pin To Net: NetName=CHARGE_STAT2 Pin=U1-19
+Added Pin To Net: NetName=CHARGE_PG Pin=U1-20
+Added Pin To Net: NetName=NetAv Pin=U1-21
+Added Pin To Net: NetName=RI Pin=U1-22
+Added Pin To Net: NetName=OnOff Pin=U1-23
+Added Pin To Net: NetName=SOC Pin=U1-45
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetJ3_4 New Net Name=NetJ1_4
+Change Net Name : Old Net Name=NetJ3_5 New Net Name=NetJ1_5
+Change Net Name : Old Net Name=NetJ3_6 New Net Name=NetJ1_6
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetJ4_4 New Net Name=NetJ2_4
+Change Net Name : Old Net Name=NetJ4_5 New Net Name=NetJ2_5
+Change Net Name : Old Net Name=NetJ4_6 New Net Name=NetJ2_6
+Change Net Name : Old Net Name=NetR38_1 New Net Name=NetR39_1
+Change Net Name : Old Net Name=NetR39_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR40_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR41_1 New Net Name=NetR42_1
+Change Net Name : Old Net Name=NetR42_1 New Net Name=NetR43_1
+Change Net Name : Old Net Name=NetR44_2 New Net Name=NetR45_2
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=R28-2
+Added Pin To Net: NetName=NetR24_1 Pin=U2-4
+Added Net: Name=NetR24_1
