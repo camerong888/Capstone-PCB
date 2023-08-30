@@ -295,6 +295,10 @@ Variation14=Designator=R6|UniqueId=\JQCWKMCJ|Kind=1|AlternatePart=
 Variation15=Designator=R?|UniqueId=\XZGPXXBR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Capstone PCB\Design Rule Check - Capstone PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=DrawDate
 Value=
