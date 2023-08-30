@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R27 Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC1608X55X30LL15T15
+Change Component Footprint: Designator=R29 Old Footprint=RESC2013X70X40ML20T20 New Footprint=RESC1608X55X30ML15T15
+Change Component Comment : Designator=R29 Old Comment=ERJ-6ENF1003V New Comment=ERJ-3EKF1003V
+Change Component Comment : Designator=R27 Old Comment=RC0805FR-07732KL New Comment=ERJ-3EKF5232V
+Change Managed Component Library Link : Designator=R27 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=FC30FFE8-0879-4E4C-B976-BE7274C0A530 New ItemGUID=1BEAAC2A-5906-4B27-A704-23000F46A381 Old RevisionGUID=C1569891-7BDF-4479-BBB5-F0A475826019 New RevisionGUID=205E360A-C2C1-4502-B822-F3415E50E1C8
+Change Managed Component Library Link : Designator=R29 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=56F3CC68-D6A5-42BD-B504-B8F09B455ED4 New ItemGUID=689D7475-5ACB-490F-95BF-6AB0267C0A99 Old RevisionGUID=DCBF2163-694C-40D1-8022-3E1A99F6D2A6 New RevisionGUID=9F6BA9D8-F86D-49F3-8299-770B4BCB722D
+Change component parameters: Designator = "R27" ("R27"); Footprint = "RESC2013X60X35ML10T20"; UniqueID = "\RYULHWBS" ("\RYULHWBS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF5232V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "732k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "RESC2013X70X40ML20T20"; UniqueID = "\KPGNUJVN" ("\KPGNUJVN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1003V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
