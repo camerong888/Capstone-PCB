@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VBUS Pin=R35-1
+Removed Pin From Net: NetName=CHARGE_PG Pin=R35-2
+Change Component Footprint: Designator=U4 Old Footprint=FP-C04-021-IPC_B New Footprint=SOP50P490X110-10N
+Change Component Comment : Designator=U4 Old Comment=MCP73833T-AMI/UN New Comment=MCP73833T-AMI_UN
+Change Managed Component Library Link : Designator=U4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=26C07B7A-CFDF-40E4-BA7B-CC1F31BC8311 New ItemGUID= Old RevisionGUID=A9EF420A-131D-4721-8EAD-94F149BB728C New RevisionGUID=
+Change component parameters: Designator = "U4" ("U4"); Footprint = "FP-C04-021-IPC_B"; UniqueID = "\HZIQWVSD" ("\HZIQWVSD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MCP73833T-AMI/UN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp73833t-amiun/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA15/727183.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP73833T-AMI/UN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP73833T-AMI/UN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP73833T-AMI-UN?qs=Fxu3fLyJv8cZVyNfuXhl2Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CHARGE_PG Pin=R35-1
+Added Pin To Net: NetName=VBUS Pin=R35-2

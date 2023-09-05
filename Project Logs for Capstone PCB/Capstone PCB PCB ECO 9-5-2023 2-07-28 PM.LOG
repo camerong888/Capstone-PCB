@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CHARGE_STAT1 Pin=U1-18
+Removed Pin From Net: NetName=CHARGE_STAT2 Pin=U1-19
+Removed Pin From Net: NetName=CHARGE_PG Pin=U1-20
+Added Pin To Net: NetName=CHARGE_PG Pin=U1-25
+Added Pin To Net: NetName=CHARGE_STAT2 Pin=U1-26
+Added Pin To Net: NetName=CHARGE_STAT1 Pin=U1-27
+Added Pin To Net: NetName=TEENSY_D26 Pin=U1-18
+Added Net: Name=TEENSY_D26
+Added Pin To Net: NetName=TEENSY_D27 Pin=U1-19
+Added Net: Name=TEENSY_D27
+Added Pin To Net: NetName=TEENSY_D28 Pin=U1-20
+Added Net: Name=TEENSY_D28

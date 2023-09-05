@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=3.3V Pin=R35-2
+Removed Pin From Net: NetName=CHARGE_PG Pin=U1-25
+Removed Pin From Net: NetName=CHARGE_STAT2 Pin=U1-26
+Removed Pin From Net: NetName=CHARGE_STAT1 Pin=U1-27
+Change Component Footprint: Designator=R35 Old Footprint=RESC1609X55X30LL15T15 New Footprint=RESC1608X55X30NL15T15
+Change Component Comment : Designator=R35 Old Comment=ERJ3EKF1002V New Comment=ERJ-3GEYJ471V
+Change Managed Component Library Link : Designator=R35 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D6FF6A2E-237B-4D32-86D1-1B9665B5CB39 New ItemGUID=1AD39304-0756-4FFC-B6EB-45397ACEA277 Old RevisionGUID=20C4B742-B9BD-484B-8674-15E5F2C7C3A3 New RevisionGUID=5A016C9C-FA26-42D5-BBD7-E6F2350D58A9
+Change component parameters: Designator = "R35" ("R35"); Footprint = "RESC1609X55X30LL15T15"; UniqueID = "\ZOREDYED" ("\ZOREDYED")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ERJ-3GEYJ471V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=DS4(LUMX-SML-LXT0805_V)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.lumexinstruments.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.lumex.com/content/files/ProductAttachment/SML-LXT0805GW-TR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. F, 09/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SML-LXT0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25 mm"; VariantName = "[No Variations]"
+Added Component: Designator=SB4(SOLDERBRIDGEOPEN)
+Added Pin To Net: NetName=VBUS Pin=SB4-2
+Added Pin To Net: NetName=CHARGE_STAT2 Pin=U1-25
+Added Pin To Net: NetName=CHARGE_STAT1 Pin=U1-26
+Added Pin To Net: NetName=NetDS4_1 Pin=DS4-1
+Added Pin To Net: NetName=NetDS4_1 Pin=SB4-1
+Added Net: Name=NetDS4_1
+Added Pin To Net: NetName=NetDS4_2 Pin=DS4-2
+Added Pin To Net: NetName=NetDS4_2 Pin=R35-2
+Added Net: Name=NetDS4_2
+Added Pin To Net: NetName=TEENSY_D35 Pin=U1-27
+Added Net: Name=TEENSY_D35
+Added Member To Class: ClassName=Power Management Member=Component DS4 SML-LXT0805GW-TR
+Added Member To Class: ClassName=Power Management Member=Component SB4 SolderBridgeOpen

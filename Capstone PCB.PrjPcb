@@ -271,12 +271,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=Libraries\BNO085.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TUELWGQH
+
+[Document15]
+DocumentPath=Libraries\BNO085.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KDOQLTGV
+
 [ProjectVariant1]
 UniqueID=B1D12614-98EA-457C-9998-A05165A58874
 Description=Production
 AllowFabrication=1
 ParameterCount=0
-VariationCount=23
+VariationCount=24
 AllowVariationPastMask=1
 Variation1=Designator=R?|UniqueId=\NSCVWGBI|Kind=1|AlternatePart= 
 Variation2=Designator=R?|UniqueId=\VAXJKAGN|Kind=1|AlternatePart= 
@@ -301,6 +335,7 @@ Variation20=Designator=R21|UniqueId=\YMMHOYJP|Kind=1|AlternatePart=
 Variation21=Designator=R36|UniqueId=\DDBRVDBV|Kind=1|AlternatePart= 
 Variation22=Designator=R42|UniqueId=\KPFPNKQJ|Kind=1|AlternatePart= 
 Variation23=Designator=R41|UniqueId=\MDLTNQKS|Kind=1|AlternatePart= 
+Variation24=Designator=J4|UniqueId=\EFUEJFYM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -963,6 +998,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Orcad v7 Capture Design
+OutputName15=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD ASCII
+OutputName16=P-CAD ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD V16 Schematic Design
+OutputName17=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SiSoft
+OutputName18=SiSoft (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
