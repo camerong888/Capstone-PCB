@@ -1,0 +1,139 @@
+Removed Member From Class: ClassName=Teensy and ICs Member=FID1
+Removed Member From Class: ClassName=Teensy and ICs Member=FID2
+Removed Member From Class: ClassName=Teensy and ICs Member=FID3
+Removed Member From Class: ClassName=Teensy and ICs Member=FID4
+Removed Member From Class: ClassName=Teensy and ICs Member=MP1
+Removed Member From Class: ClassName=Teensy and ICs Member=MP2
+Removed Member From Class: ClassName=Teensy and ICs Member=MP3
+Removed Member From Class: ClassName=Teensy and ICs Member=MP4
+Added Component: Designator=DS5(Q8F7CZZRYG02E)
+Added Component: Designator=DS6(Q8F7CZZRYG02E)
+Added Component: Designator=DS7(Q8F7CZZRYG02E)
+Added Component: Designator=Q1(SSM6P15FE(TE85L,F)-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "P-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ids Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vds Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SSM6P15FE(TE85L,F)-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "P-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ids Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vds Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SSM6P15FE(TE85L,F)-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "P-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ids Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vds Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=R57(RESC2013X60X35ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RESC2013X60X35ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200"; VariantName = "[No Variations]"
+Added Component: Designator=R59(RESC2013X60X35ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200"; VariantName = "[No Variations]"
+Added Component: Designator=R60(RESC2013X60X35ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200"; VariantName = "[No Variations]"
+Added Component: Designator=R61(RESC2013X60X35ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200"; VariantName = "[No Variations]"
+Added Component: Designator=R62(RESC2013X60X35ML10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805JR-07200RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DS5-3
+Added Pin To Net: NetName=GND Pin=DS6-3
+Added Pin To Net: NetName=GND Pin=DS7-3
+Added Pin To Net: NetName=5V Pin=Q1-1
+Added Pin To Net: NetName=5V Pin=Q1-4
+Added Pin To Net: NetName=5V Pin=Q2-1
+Added Pin To Net: NetName=5V Pin=Q2-4
+Added Pin To Net: NetName=5V Pin=Q3-1
+Added Pin To Net: NetName=5V Pin=Q3-4
+Added Pin To Net: NetName=GREEN1_LOGIC Pin=Q1-5
+Added Net: Name=GREEN1_LOGIC
+Added Pin To Net: NetName=GREEN1 Pin=Q1-3
+Added Pin To Net: NetName=GREEN1 Pin=R58-2
+Added Pin To Net: NetName=GREEN1 Pin=R60-2
+Added Pin To Net: NetName=GREEN1 Pin=R62-2
+Added Net: Name=GREEN1
+Added Pin To Net: NetName=GREEN2_LOGIC Pin=Q2-5
+Added Net: Name=GREEN2_LOGIC
+Added Pin To Net: NetName=GREEN2 Pin=Q2-3
+Added Net: Name=GREEN2
+Added Pin To Net: NetName=GREEN3_LOGIC Pin=Q3-5
+Added Net: Name=GREEN3_LOGIC
+Added Pin To Net: NetName=GREEN3 Pin=Q3-3
+Added Net: Name=GREEN3
+Added Pin To Net: NetName=NetDS5_1 Pin=DS5-1
+Added Pin To Net: NetName=NetDS5_1 Pin=R57-1
+Added Net: Name=NetDS5_1
+Added Pin To Net: NetName=NetDS5_2 Pin=DS5-2
+Added Pin To Net: NetName=NetDS5_2 Pin=R58-1
+Added Net: Name=NetDS5_2
+Added Pin To Net: NetName=NetDS6_1 Pin=DS6-1
+Added Pin To Net: NetName=NetDS6_1 Pin=R59-1
+Added Net: Name=NetDS6_1
+Added Pin To Net: NetName=NetDS6_2 Pin=DS6-2
+Added Pin To Net: NetName=NetDS6_2 Pin=R60-1
+Added Net: Name=NetDS6_2
+Added Pin To Net: NetName=NetDS7_1 Pin=DS7-1
+Added Pin To Net: NetName=NetDS7_1 Pin=R61-1
+Added Net: Name=NetDS7_1
+Added Pin To Net: NetName=NetDS7_2 Pin=DS7-2
+Added Pin To Net: NetName=NetDS7_2 Pin=R62-1
+Added Net: Name=NetDS7_2
+Added Pin To Net: NetName=RED1_LOGIC Pin=Q1-2
+Added Net: Name=RED1_LOGIC
+Added Pin To Net: NetName=RED1 Pin=Q1-6
+Added Pin To Net: NetName=RED1 Pin=R57-2
+Added Pin To Net: NetName=RED1 Pin=R59-2
+Added Pin To Net: NetName=RED1 Pin=R61-2
+Added Net: Name=RED1
+Added Pin To Net: NetName=RED2_LOGIC Pin=Q2-2
+Added Net: Name=RED2_LOGIC
+Added Pin To Net: NetName=RED2 Pin=Q2-6
+Added Net: Name=RED2
+Added Pin To Net: NetName=RED3_LOGIC Pin=Q3-2
+Added Net: Name=RED3_LOGIC
+Added Pin To Net: NetName=RED3 Pin=Q3-6
+Added Net: Name=RED3
+Added Member To Class: ClassName=Teensy and ICs Member=Component DS5 Q8F7CZZRYG02E
+Added Member To Class: ClassName=Teensy and ICs Member=Component DS6 Q8F7CZZRYG02E
+Added Member To Class: ClassName=Teensy and ICs Member=Component DS7 Q8F7CZZRYG02E
+Added Member To Class: ClassName=Communication Member=Component FID1 Fiducial
+Added Member To Class: ClassName=Communication Member=Component FID2 Fiducial
+Added Member To Class: ClassName=Communication Member=Component FID3 Fiducial
+Added Member To Class: ClassName=Communication Member=Component FID4 Fiducial
+Added Member To Class: ClassName=Communication Member=Component MP1 M4 Screw Hole
+Added Member To Class: ClassName=Communication Member=Component MP2 M4 Screw Hole
+Added Member To Class: ClassName=Communication Member=Component MP3 M4 Screw Hole
+Added Member To Class: ClassName=Communication Member=Component MP4 M4 Screw Hole
+Added Member To Class: ClassName=Teensy and ICs Member=Component Q1 SSM6P15FE(TE85L,F)
+Added Member To Class: ClassName=Teensy and ICs Member=Component Q2 SSM6P15FE(TE85L,F)
+Added Member To Class: ClassName=Teensy and ICs Member=Component Q3 SSM6P15FE(TE85L,F)
+Added Member To Class: ClassName=Teensy and ICs Member=Component R57 RC0805JR-07200RL
+Added Member To Class: ClassName=Teensy and ICs Member=Component R58 RC0805JR-07200RL
+Added Member To Class: ClassName=Teensy and ICs Member=Component R59 RC0805JR-07200RL
+Added Member To Class: ClassName=Teensy and ICs Member=Component R60 RC0805JR-07200RL
+Added Member To Class: ClassName=Teensy and ICs Member=Component R61 RC0805JR-07200RL
+Added Member To Class: ClassName=Teensy and ICs Member=Component R62 RC0805JR-07200RL

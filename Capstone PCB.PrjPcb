@@ -305,12 +305,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDOQLTGV
 
+[Document16]
+DocumentPath=Libraries\RGY LEDs.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VPYVHIAE
+
+[Document17]
+DocumentPath=Libraries\RGY LEDs.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OUWSQNQE
+
 [ProjectVariant1]
 UniqueID=B1D12614-98EA-457C-9998-A05165A58874
 Description=Production
 AllowFabrication=1
 ParameterCount=0
-VariationCount=24
+VariationCount=26
 AllowVariationPastMask=1
 Variation1=Designator=R?|UniqueId=\NSCVWGBI|Kind=1|AlternatePart= 
 Variation2=Designator=R?|UniqueId=\VAXJKAGN|Kind=1|AlternatePart= 
@@ -336,6 +370,8 @@ Variation21=Designator=R36|UniqueId=\DDBRVDBV|Kind=1|AlternatePart=
 Variation22=Designator=R42|UniqueId=\KPFPNKQJ|Kind=1|AlternatePart= 
 Variation23=Designator=R41|UniqueId=\MDLTNQKS|Kind=1|AlternatePart= 
 Variation24=Designator=J4|UniqueId=\EFUEJFYM|Kind=1|AlternatePart= 
+Variation25=Designator=SW3|UniqueId=\HLFXKZMG|Kind=1|AlternatePart= 
+Variation26=Designator=R56|UniqueId=\HBPAZBDQ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -343,27 +379,27 @@ DocumentPath=Project Outputs for Capstone PCB\Design Rule Check - Capstone PCB.h
 DItemRevisionGUID=
 
 [Parameter1]
-Name=DrawDate
+Name=WBS
 Value=
 
 [Parameter2]
-Name=ProjectApprover
-Value=
-
-[Parameter3]
-Name=ProjectDrawer
-Value=
-
-[Parameter4]
-Name=ProjectRevision
-Value=V1.0
-
-[Parameter5]
 Name=ProjectTitle
 Value=
 
+[Parameter3]
+Name=ProjectRevision
+Value=V1.0
+
+[Parameter4]
+Name=ProjectDrawer
+Value=Cameron Gordon
+
+[Parameter5]
+Name=ProjectApprover
+Value=
+
 [Parameter6]
-Name=WBS
+Name=DrawDate
 Value=
 
 [Configuration1]
