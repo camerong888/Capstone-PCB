@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SOC Pin=U1-45
+Added Pin To Net: NetName=SOC Pin=U1-43
+Added Pin To Net: NetName=CRX1 Pin=R48-2
+Added Pin To Net: NetName=CRX1 Pin=U1-45
+Added Net: Name=CRX1
+Added Pin To Net: NetName=CTX1 Pin=R47-2
+Added Pin To Net: NetName=CTX1 Pin=U1-44
+Added Net: Name=CTX1
