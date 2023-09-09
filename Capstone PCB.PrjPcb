@@ -344,7 +344,7 @@ UniqueID=B1D12614-98EA-457C-9998-A05165A58874
 Description=Production
 AllowFabrication=1
 ParameterCount=0
-VariationCount=26
+VariationCount=33
 AllowVariationPastMask=1
 Variation1=Designator=R?|UniqueId=\NSCVWGBI|Kind=1|AlternatePart= 
 Variation2=Designator=R?|UniqueId=\VAXJKAGN|Kind=1|AlternatePart= 
@@ -372,6 +372,13 @@ Variation23=Designator=R41|UniqueId=\MDLTNQKS|Kind=1|AlternatePart=
 Variation24=Designator=J4|UniqueId=\EFUEJFYM|Kind=1|AlternatePart= 
 Variation25=Designator=SW3|UniqueId=\HLFXKZMG|Kind=1|AlternatePart= 
 Variation26=Designator=R56|UniqueId=\HBPAZBDQ|Kind=1|AlternatePart= 
+Variation27=Designator=R47|UniqueId=\ICEAYKRO|Kind=1|AlternatePart= 
+Variation28=Designator=R48|UniqueId=\JBBZUNMX|Kind=1|AlternatePart= 
+Variation29=Designator=R52|UniqueId=\BWYYHPTU|Kind=1|AlternatePart= 
+Variation30=Designator=R50|UniqueId=\NBVHORCD|Kind=1|AlternatePart= 
+Variation31=Designator=R49|UniqueId=\JLHFJZJJ|Kind=1|AlternatePart= 
+Variation32=Designator=R?|UniqueId=\SLPJAXHQ|Kind=1|AlternatePart= 
+Variation33=Designator=SB?|UniqueId=\XHVDKDRK|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -379,27 +386,27 @@ DocumentPath=Project Outputs for Capstone PCB\Design Rule Check - Capstone PCB.h
 DItemRevisionGUID=
 
 [Parameter1]
-Name=WBS
+Name=DrawDate
 Value=
 
 [Parameter2]
-Name=ProjectTitle
-Value=
-
-[Parameter3]
-Name=ProjectRevision
-Value=V1.0
-
-[Parameter4]
-Name=ProjectDrawer
-Value=Cameron Gordon
-
-[Parameter5]
 Name=ProjectApprover
 Value=
 
+[Parameter3]
+Name=ProjectDrawer
+Value=Cameron Gordon
+
+[Parameter4]
+Name=ProjectRevision
+Value=V1.0
+
+[Parameter5]
+Name=ProjectTitle
+Value=
+
 [Parameter6]
-Name=DrawDate
+Name=WBS
 Value=
 
 [Configuration1]
@@ -1034,36 +1041,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=Orcad v7 Capture Design
-OutputName15=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD ASCII
-OutputName16=P-CAD ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD V16 Schematic Design
-OutputName17=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=SiSoft
-OutputName18=SiSoft (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1197,6 +1174,7 @@ Type117=1
 Type118=1
 Type119=1
 Type120=1
+Type121=1
 
 [Difference Levels]
 Type1=1
@@ -1267,6 +1245,7 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1395,6 +1374,30 @@ Type124=1
 Type125=1
 Type126=1
 Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

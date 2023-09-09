@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=RED1_LOGIC Pin=Q1-2
+Removed Pin From Net: NetName=GREEN1_LOGIC Pin=Q1-5
+Removed Pin From Net: NetName=RED2_LOGIC Pin=Q2-2
+Removed Pin From Net: NetName=GREEN2_LOGIC Pin=Q2-5
+Removed Pin From Net: NetName=RED3_LOGIC Pin=Q3-2
+Removed Pin From Net: NetName=GREEN3_LOGIC Pin=Q3-5
+Added Component: Designator=SB5(SOLDERBRIDGEOPEN)
+Added Component: Designator=SB6(SOLDERBRIDGEOPEN)
+Added Component: Designator=SB7(SOLDERBRIDGEOPEN)
+Added Component: Designator=SB8(SOLDERBRIDGEOPEN)
+Added Component: Designator=SB9(SOLDERBRIDGEOPEN)
+Added Component: Designator=SB10(SOLDERBRIDGEOPEN)
+Added Component: Designator=SB11(SOLDERBRIDGEOPEN)
+Added Pin To Net: NetName=RED1_LOGIC Pin=SB5-2
+Added Pin To Net: NetName=GREEN1_LOGIC Pin=SB6-2
+Added Pin To Net: NetName=RED2_LOGIC Pin=SB7-2
+Added Pin To Net: NetName=GREEN2_LOGIC Pin=SB8-2
+Added Pin To Net: NetName=RED3_LOGIC Pin=SB9-2
+Added Pin To Net: NetName=GREEN3_LOGIC Pin=SB10-2
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=RED1_LOGIC Pin=U7-2
+Added Pin To Net: NetName=5V Pin=U7-3
+Added Pin To Net: NetName=GREEN1_LOGIC Pin=U7-4
+Added Pin To Net: NetName=RED2_LOGIC Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=GREEN2_LOGIC Pin=U7-7
+Added Pin To Net: NetName=5V Pin=U7-8
+Added Pin To Net: NetName=5V Pin=U7-10
+Added Pin To Net: NetName=5V Pin=U7-12
+Added Pin To Net: NetName=5V Pin=U7-13
+Added Pin To Net: NetName=5V Pin=U7-15
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=RED3_LOGIC Pin=U8-2
+Added Pin To Net: NetName=5V Pin=U8-3
+Added Pin To Net: NetName=GREEN3_LOGIC Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-6
+Added Pin To Net: NetName=5V Pin=U8-8
+Added Pin To Net: NetName=5V Pin=U8-10
+Added Pin To Net: NetName=5V Pin=U8-12
+Added Pin To Net: NetName=5V Pin=U8-13
+Added Pin To Net: NetName=5V Pin=U8-15
+Added Pin To Net: NetName=GREEN1_GATE Pin=Q1-5
+Added Pin To Net: NetName=GREEN1_GATE Pin=SB6-1
+Added Pin To Net: NetName=GREEN1_GATE Pin=U7-14
+Added Net: Name=GREEN1_GATE
+Added Pin To Net: NetName=GREEN2_GATE Pin=Q2-5
+Added Pin To Net: NetName=GREEN2_GATE Pin=SB8-1
+Added Pin To Net: NetName=GREEN2_GATE Pin=U7-9
+Added Net: Name=GREEN2_GATE
+Added Pin To Net: NetName=GREEN3_GATE Pin=Q3-5
+Added Pin To Net: NetName=GREEN3_GATE Pin=SB10-1
+Added Pin To Net: NetName=GREEN3_GATE Pin=U8-14
+Added Net: Name=GREEN3_GATE
+Added Pin To Net: NetName=OnOff_GATE Pin=SB11-1
+Added Pin To Net: NetName=OnOff_GATE Pin=U8-11
+Added Net: Name=OnOff_GATE
+Added Pin To Net: NetName=OnOff_LOGIC Pin=SB11-2
+Added Pin To Net: NetName=OnOff_LOGIC Pin=U8-5
+Added Net: Name=OnOff_LOGIC
+Added Pin To Net: NetName=RED1_GATE Pin=Q1-2
+Added Pin To Net: NetName=RED1_GATE Pin=SB5-1
+Added Pin To Net: NetName=RED1_GATE Pin=U7-16
+Added Net: Name=RED1_GATE
+Added Pin To Net: NetName=RED2_GATE Pin=Q2-2
+Added Pin To Net: NetName=RED2_GATE Pin=SB7-1
+Added Pin To Net: NetName=RED2_GATE Pin=U7-11
+Added Net: Name=RED2_GATE
+Added Pin To Net: NetName=RED3_GATE Pin=Q3-2
+Added Pin To Net: NetName=RED3_GATE Pin=SB9-1
+Added Pin To Net: NetName=RED3_GATE Pin=U8-16
+Added Net: Name=RED3_GATE
+Added Member To Class: ClassName=Teensy and ICs Member=Component SB5 SolderBridgeOpen
+Added Member To Class: ClassName=Teensy and ICs Member=Component SB6 SolderBridgeOpen
+Added Member To Class: ClassName=Teensy and ICs Member=Component SB7 SolderBridgeOpen
+Added Member To Class: ClassName=Teensy and ICs Member=Component SB8 SolderBridgeOpen
+Added Member To Class: ClassName=Teensy and ICs Member=Component SB9 SolderBridgeOpen
+Added Member To Class: ClassName=Teensy and ICs Member=Component SB10 SolderBridgeOpen
+Added Member To Class: ClassName=Teensy and ICs Member=Component SB11 SolderBridgeOpen
