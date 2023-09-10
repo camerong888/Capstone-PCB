@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=OnOff_LOGIC Pin=U1-31
+Removed Pin From Net: NetName=GREEN1_LOGIC Pin=U1-32
+Added Pin To Net: NetName=GREEN1_LOGIC Pin=U1-31
+Added Pin To Net: NetName=OnOff_LOGIC Pin=U1-32
