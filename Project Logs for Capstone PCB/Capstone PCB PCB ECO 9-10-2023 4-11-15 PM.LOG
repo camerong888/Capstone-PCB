@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PWR_SRC Pin=U1-8
+Added Pin To Net: NetName=PWR_SRC Pin=U1-27
