@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J8 Old Footprint=FP-53047-1010-MFG New Footprint=FP-53047-1010-MFG
+Change Managed Component Library Link : Designator=J8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB Old ItemGUID=4FB2F296-3C4D-4066-820C-C1D93E848AC0 New ItemGUID=37e27d27-bdc0-47ea-a7c8-5643b5e41326 Old RevisionGUID=AD60E211-540C-47D8-B018-C851A6FA9418 New RevisionGUID=74d806f4-9582-4be8-b954-f2cafacdd5ba
+Change component parameters: Designator = "J8" ("J8"); Footprint = "FP-53047-1010-MFG"; UniqueID = "\YCOAUNOX" ("\YCOAUNOX")
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "0A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "0V"; VariantName = "[No Variations]"
