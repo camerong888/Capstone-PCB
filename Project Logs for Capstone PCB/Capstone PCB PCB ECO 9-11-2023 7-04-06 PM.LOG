@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=U5 Old Footprint=FP-SAM-M10Q-00B-MFG New Footprint=FP-SAM-M10Q-00B-MFG
+Change Managed Component Library Link : Designator=U5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB Old ItemGUID=DA053E91-1739-457D-A9BA-FCA208150288 New ItemGUID=ece90823-7716-42ae-a369-385c2d38e7c5 Old RevisionGUID=75C6952D-3532-488B-ACCF-3EDDE97433F1 New RevisionGUID=fbd17a0a-47af-4c19-8c2f-fa82e46b9ca8
+Change component parameters: Designator = "U5" ("U5"); Footprint = "FP-SAM-M10Q-00B-MFG"; UniqueID = "\EMMFGPQT" ("\EMMFGPQT")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Custom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Memory Size"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RAM Size"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Communication Member=Component U5 SAM-M10Q-00B

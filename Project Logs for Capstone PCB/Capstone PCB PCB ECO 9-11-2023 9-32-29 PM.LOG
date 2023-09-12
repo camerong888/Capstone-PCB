@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=U5 Old Footprint=FP-SAM-M10Q-00B-MFG New Footprint=FP-SAM-M10Q-00B-MFG
+Change Managed Component Library Link : Designator=U5 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB Old ItemGUID=ece90823-7716-42ae-a369-385c2d38e7c5 New ItemGUID=ece90823-7716-42ae-a369-385c2d38e7c5 Old RevisionGUID=fbd17a0a-47af-4c19-8c2f-fa82e46b9ca8 New RevisionGUID=3b6ba874-1d0e-43f6-9ad6-a25f2222599c
