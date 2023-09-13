@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=5V Pin=Q1-1
+Removed Pin From Net: NetName=RED1_GATE Pin=Q1-2
+Removed Pin From Net: NetName=GREEN1 Pin=Q1-3
+Removed Pin From Net: NetName=5V Pin=Q1-4
+Removed Pin From Net: NetName=GREEN1_GATE Pin=Q1-5
+Removed Pin From Net: NetName=RED1 Pin=Q1-6
+Removed Pin From Net: NetName=5V Pin=Q2-1
+Removed Pin From Net: NetName=RED2_GATE Pin=Q2-2
+Removed Pin From Net: NetName=GREEN2 Pin=Q2-3
+Removed Pin From Net: NetName=5V Pin=Q2-4
+Removed Pin From Net: NetName=GREEN2_GATE Pin=Q2-5
+Removed Pin From Net: NetName=RED2 Pin=Q2-6
+Removed Pin From Net: NetName=5V Pin=Q3-1
+Removed Pin From Net: NetName=RED3_GATE Pin=Q3-2
+Removed Pin From Net: NetName=GREEN3 Pin=Q3-3
+Removed Pin From Net: NetName=5V Pin=Q3-4
+Removed Pin From Net: NetName=GREEN3_GATE Pin=Q3-5
+Removed Pin From Net: NetName=RED3 Pin=Q3-6
+Change Component Footprint: Designator=Q1 Old Footprint=SSM6P15FE(TE85L,F)-Footprint-1 New Footprint=SOTFL40P120X55-3N
+Change Component Footprint: Designator=Q2 Old Footprint=SSM6P15FE(TE85L,F)-Footprint-1 New Footprint=SOTFL40P120X55-3N
+Change Component Footprint: Designator=Q3 Old Footprint=SSM6P15FE(TE85L,F)-Footprint-1 New Footprint=SOTFL40P120X55-3N
+Change Component Comment : Designator=Q1 Old Comment=SSM6P15FE(TE85L,F) New Comment=SSM3J35AMFV,L3F
+Change Component Comment : Designator=Q2 Old Comment=SSM6P15FE(TE85L,F) New Comment=SSM3J35AMFV,L3F
+Change Component Comment : Designator=Q3 Old Comment=SSM6P15FE(TE85L,F) New Comment=SSM3J35AMFV,L3F
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID= Old ItemGUID=38fc5bd1-45d2-4847-8f7f-4abc71397399 New ItemGUID= Old RevisionGUID=57BAAC7D-6344-4EAC-8A27-CDFBAF218896 New RevisionGUID=
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID= Old ItemGUID=38fc5bd1-45d2-4847-8f7f-4abc71397399 New ItemGUID= Old RevisionGUID=57BAAC7D-6344-4EAC-8A27-CDFBAF218896 New RevisionGUID=
+Change Managed Component Library Link : Designator=Q3 Old VaultGUID=121972DC-853D-4BDF-B247-20B9C2502ACB New VaultGUID= Old ItemGUID=38fc5bd1-45d2-4847-8f7f-4abc71397399 New ItemGUID= Old RevisionGUID=57BAAC7D-6344-4EAC-8A27-CDFBAF218896 New RevisionGUID=
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SSM6P15FE(TE85L,F)-Footprint-1"; UniqueID = "\ODXVOIHU" ("\ODXVOIHU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j35amfvl3f/toshiba?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=56960&prodName=SSM3J35AMFV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J35AMFVL3F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J35AMFVL3F?qs=r5DSvlrkXmI4j0HcxgbocA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SSM6P15FE(TE85L,F)-Footprint-1"; UniqueID = "\UXJVCTQQ" ("\UXJVCTQQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j35amfvl3f/toshiba?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=56960&prodName=SSM3J35AMFV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J35AMFVL3F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J35AMFVL3F?qs=r5DSvlrkXmI4j0HcxgbocA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "SSM6P15FE(TE85L,F)-Footprint-1"; UniqueID = "\EBASUUPA" ("\EBASUUPA")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j35amfvl3f/toshiba?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=56960&prodName=SSM3J35AMFV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J35AMFVL3F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J35AMFVL3F?qs=r5DSvlrkXmI4j0HcxgbocA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOTFL40P120X55-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j35amfvl3f/toshiba?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=56960&prodName=SSM3J35AMFV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J35AMFVL3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J35AMFVL3F?qs=r5DSvlrkXmI4j0HcxgbocA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(SOTFL40P120X55-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j35amfvl3f/toshiba?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=56960&prodName=SSM3J35AMFV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J35AMFVL3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J35AMFVL3F?qs=r5DSvlrkXmI4j0HcxgbocA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q7(SOTFL40P120X55-3N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j35amfvl3f/toshiba?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://toshiba.semicon-storage.com/info/docget.jsp?did=56960&prodName=SSM3J35AMFV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J35AMFV,L3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J35AMFVL3F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J35AMFVL3F?qs=r5DSvlrkXmI4j0HcxgbocA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RED1_GATE Pin=Q1-1
+Added Pin To Net: NetName=5V Pin=Q1-2
+Added Pin To Net: NetName=RED1 Pin=Q1-3
+Added Pin To Net: NetName=RED2_GATE Pin=Q2-1
+Added Pin To Net: NetName=5V Pin=Q2-2
+Added Pin To Net: NetName=RED1 Pin=Q2-3
+Added Pin To Net: NetName=RED3_GATE Pin=Q3-1
+Added Pin To Net: NetName=5V Pin=Q3-2
+Added Pin To Net: NetName=RED3 Pin=Q3-3
+Added Pin To Net: NetName=GREEN1_GATE Pin=Q5-1
+Added Pin To Net: NetName=5V Pin=Q5-2
+Added Pin To Net: NetName=RED1 Pin=Q5-3
+Added Pin To Net: NetName=GREEN2_GATE Pin=Q6-1
+Added Pin To Net: NetName=5V Pin=Q6-2
+Added Pin To Net: NetName=RED1 Pin=Q6-3
+Added Pin To Net: NetName=GREEN3_GATE Pin=Q7-1
+Added Pin To Net: NetName=5V Pin=Q7-2
+Added Pin To Net: NetName=RED3 Pin=Q7-3
+Added Member To Class: ClassName=Teensy and ICs Member=Component Q5 SSM3J35AMFV,L3F
+Added Member To Class: ClassName=Teensy and ICs Member=Component Q6 SSM3J35AMFV,L3F
+Added Member To Class: ClassName=Teensy and ICs Member=Component Q7 SSM3J35AMFV,L3F

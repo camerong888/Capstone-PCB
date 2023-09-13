@@ -1,0 +1,66 @@
+Change Component Footprint: Designator=Q1 Old Footprint=SOTFL40P120X55-3N New Footprint=SSM3J372RLF
+Change Component Footprint: Designator=Q2 Old Footprint=SOTFL40P120X55-3N New Footprint=SSM3J372RLF
+Change Component Footprint: Designator=Q3 Old Footprint=SOTFL40P120X55-3N New Footprint=SSM3J372RLF
+Change Component Footprint: Designator=Q5 Old Footprint=SOTFL40P120X55-3N New Footprint=SSM3J372RLF
+Change Component Footprint: Designator=Q6 Old Footprint=SOTFL40P120X55-3N New Footprint=SSM3J372RLF
+Change Component Footprint: Designator=Q7 Old Footprint=SOTFL40P120X55-3N New Footprint=SSM3J372RLF
+Change Component Comment : Designator=Q1 Old Comment=SSM3J35AMFV,L3F New Comment=SSM3J372R,LF
+Change Component Comment : Designator=Q2 Old Comment=SSM3J35AMFV,L3F New Comment=SSM3J372R,LF
+Change Component Comment : Designator=Q3 Old Comment=SSM3J35AMFV,L3F New Comment=SSM3J372R,LF
+Change Component Comment : Designator=Q5 Old Comment=SSM3J35AMFV,L3F New Comment=SSM3J372R,LF
+Change Component Comment : Designator=Q6 Old Comment=SSM3J35AMFV,L3F New Comment=SSM3J372R,LF
+Change Component Comment : Designator=Q7 Old Comment=SSM3J35AMFV,L3F New Comment=SSM3J372R,LF
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SOTFL40P120X55-3N"; UniqueID = "\KJWXXURZ" ("\KJWXXURZ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j372rlf/toshiba?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://toshiba.semicon-storage.com/ap-en/semiconductor/product/mosfets/detail.SSM3J372R.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J372RLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J372RLF?qs=u16ybLDytRbJaSMlwq9MLA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOTFL40P120X55-3N"; UniqueID = "\XEGOZPSD" ("\XEGOZPSD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j372rlf/toshiba?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://toshiba.semicon-storage.com/ap-en/semiconductor/product/mosfets/detail.SSM3J372R.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J372RLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J372RLF?qs=u16ybLDytRbJaSMlwq9MLA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "SOTFL40P120X55-3N"; UniqueID = "\IHUVIZXQ" ("\IHUVIZXQ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j372rlf/toshiba?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://toshiba.semicon-storage.com/ap-en/semiconductor/product/mosfets/detail.SSM3J372R.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J372RLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J372RLF?qs=u16ybLDytRbJaSMlwq9MLA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "SOTFL40P120X55-3N"; UniqueID = "\HIASXKDX" ("\HIASXKDX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j372rlf/toshiba?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://toshiba.semicon-storage.com/ap-en/semiconductor/product/mosfets/detail.SSM3J372R.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J372RLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J372RLF?qs=u16ybLDytRbJaSMlwq9MLA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6" ("Q6"); Footprint = "SOTFL40P120X55-3N"; UniqueID = "\BLWTBYTL" ("\BLWTBYTL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j372rlf/toshiba?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://toshiba.semicon-storage.com/ap-en/semiconductor/product/mosfets/detail.SSM3J372R.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J372RLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J372RLF?qs=u16ybLDytRbJaSMlwq9MLA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q7" ("Q7"); Footprint = "SOTFL40P120X55-3N"; UniqueID = "\MIEETPHU" ("\MIEETPHU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ssm3j372rlf/toshiba?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://toshiba.semicon-storage.com/ap-en/semiconductor/product/mosfets/detail.SSM3J372R.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SSM3J372R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "757-SSM3J372RLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Toshiba/SSM3J372RLF?qs=u16ybLDytRbJaSMlwq9MLA%3D%3D"; VariantName = "[No Variations]"
