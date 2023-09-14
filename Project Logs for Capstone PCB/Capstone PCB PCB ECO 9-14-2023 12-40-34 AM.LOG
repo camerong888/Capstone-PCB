@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CHARGE_STAT2 Pin=U1-25
+Removed Pin From Net: NetName=CHARGE_STAT1 Pin=U1-26
+Added Pin To Net: NetName=CHARGE_STAT1 Pin=U1-25
+Added Pin To Net: NetName=CHARGE_STAT2 Pin=U1-26
