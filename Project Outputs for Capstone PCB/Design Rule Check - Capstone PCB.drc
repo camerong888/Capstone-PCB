@@ -1,19 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : \\Mac\Home\Documents\GitHub\Capstone PCB\Capstone PCB.PcbDoc
 Date     : 9/14/2023
-Time     : 10:53:43 AM
+Time     : 12:53:08 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
-   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad J7-1(3864.291mil,2618.858mil) on Multi-Layer And Pad J7-2(3864.291mil,2668.071mil) on Multi-Layer 
-   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad J7-10(3864.291mil,3061.772mil) on Multi-Layer And Pad J7-9(3864.291mil,3012.559mil) on Multi-Layer 
-   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad J7-2(3864.291mil,2668.071mil) on Multi-Layer And Pad J7-3(3864.291mil,2717.284mil) on Multi-Layer 
-   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad J7-3(3864.291mil,2717.284mil) on Multi-Layer And Pad J7-4(3864.291mil,2766.496mil) on Multi-Layer 
-   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad J7-4(3864.291mil,2766.496mil) on Multi-Layer And Pad J7-5(3864.291mil,2815.709mil) on Multi-Layer 
-   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad J7-5(3864.291mil,2815.709mil) on Multi-Layer And Pad J7-6(3864.291mil,2864.921mil) on Multi-Layer 
-   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad J7-6(3864.291mil,2864.921mil) on Multi-Layer And Pad J7-7(3864.291mil,2914.134mil) on Multi-Layer 
-   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad J7-7(3864.291mil,2914.134mil) on Multi-Layer And Pad J7-8(3864.291mil,2963.347mil) on Multi-Layer 
-   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad J7-8(3864.291mil,2963.347mil) on Multi-Layer And Pad J7-9(3864.291mil,3012.559mil) on Multi-Layer 
-Rule Violations :9
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -61,6 +52,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 9
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:05
