@@ -1,13 +1,12 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 5:45:52 PM On 8/14/2023
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Capstone PCB.PcbDoc]
+   Generated File[Capstone PCB.TXT]
+   Generated File[Capstone PCB.LDP]
+   Generated File[Capstone PCB.DRR]
 
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [Capstone PCB.PrjPcb]
 
-
-Files Generated   : 0
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 5:45:56 PM On 8/14/2023
+Finished Output Generation At 11:26:17 PM On 9/15/2023

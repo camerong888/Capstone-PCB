@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Capstone PCB.PcbDoc   9/15/2023  11:26:16 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Signal to Bottom Signal
+ASCII RoundHoles File : Capstone PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             1816      PTH        139.04inch (3531.60mm)
+T2      20mil (0.5mm)                                             Round             20        PTH        1.13inch (28.74mm)
+T3      28mil (0.701mm)                                           Round             4         PTH        1.08inch (27.40mm)
+T4      35mil (0.899mm)                                           Round             48        PTH        8.20inch (208.28mm)
+T5      40mil (1.016mm)                                           Round             27        PTH        7.03inch (178.45mm)
+T6      40mil (1.021mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T7      177mil (4.501mm)                                          Round             4         PTH        8.80inch (223.52mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1920
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -18,10 +18,10 @@ RevisionNamingSchemeGUID=
 Name=Assembly.OutJob
 Description=
 TargetOutputMedium=Folder Structure
-VariantName=[No Variations]
+VariantName=Production
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=papercut - 8.5x11 bw_authenticated
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -94,13 +94,13 @@ Configuration3_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsIn
 Configuration3_Name3=GroupOrder
 Configuration3_Item3=
 Configuration3_Name4=VisibleOrder
-Configuration3_Item4=Comment=52|Description=82|Designator=80|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Supplier 1=75|Supplier Unit Price 1=127
+Configuration3_Item4=Comment=52|Description=82|Designator=80|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169
 Configuration3_Name5=VisibleOrder_Base
-Configuration3_Item5=Comment=52|Description=82|Designator=80|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169|Supplier 1=75|Supplier Unit Price 1=127
+Configuration3_Item5=Comment=52|Description=82|Designator=80|Quantity=67|Manufacturer 1=102|Manufacturer Part Number 1=169
 Configuration3_Name6=VisibleOrder_Consolidated
-Configuration3_Item6=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration3_Item6=Line #=100|Comment=52|Description=82|Designator=80|Manufacturer 1=102|Quantity=67|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 Configuration3_Name7=VisibleOrder_Flat
-Configuration3_Item7=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
+Configuration3_Item7=Line #=100|Comment=52|Description=82|Designator=80|Manufacturer 1=102|Manufacturer Part Number 1=169|Manufacturer Lifecycle 1=147|Supplier 1=75|Supplier Part Number 1=142|Supplier Unit Price 1=127|Supplier Subtotal 1=122
 
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\.PDF

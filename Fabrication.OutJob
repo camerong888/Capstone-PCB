@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother HL-L2300D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -45,7 +45,7 @@ OutputEnabled1_OutputMedium3=1
 OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=AddLayersToGroup.Group_0=0|AddLayersToGroup.Group_1=1|AddLayersToGroup.Group_2=2|AddLayersToGroup.Group_3=3|AddLayersToGroup.Group_4=4|AddLayersToGroup.Group_5=5|AddLayersToGroup.Group_6=7|AddLayersToGroup.Group_7=8|AddLayersToGroup.Set_0=16908289|AddLayersToGroup.Set_1=16908289|AddLayersToGroup.Set_2=16908289|AddLayersToGroup.Set_3=16908289|AddLayersToGroup.Set_4=16908289|AddLayersToGroup.Set_5=16908289|AddLayersToGroup.Set_6=16908289|AddLayersToGroup.Set_7=16908289|AddLayersToGroups.Count=8|AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16908289~1|BoardID=EBPPAWHS|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1|PlotBoardProfile=True|PlotBoardProfileFileName=[ProjectName].GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=[ProjectName].GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=[ProjectName].GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=[ProjectName].GBO|UserLayerName.Caption1=[ProjectName].GTP|UserLayerName.Caption10=[ProjectName].GM16|UserLayerName.Caption11=[ProjectName].GM1|UserLayerName.Caption12=[ProjectName].GBL|UserLayerName.Caption13=[ProjectName].GM15|UserLayerName.Caption14=[ProjectName].GM14|UserLayerName.Caption15=[ProjectName].GM20|UserLayerName.Caption16=[ProjectName].GM17|UserLayerName.Caption17=[ProjectName].GTL|UserLayerName.Caption18=[ProjectName].GM18|UserLayerName.Caption19=[ProjectName].GKO|UserLayerName.Caption2=[ProjectName].GTO|UserLayerName.Caption3=[ProjectName].GTS|UserLayerName.Caption4=[ProjectName].GM13|UserLayerName.Caption5=[ProjectName].GPT|UserLayerName.Caption6=[ProjectName].GPB|UserLayerName.Caption7=[ProjectName].GBP|UserLayerName.Caption8=[ProjectName].GM19|UserLayerName.Caption9=[ProjectName].GBS|UserLayerName.Count=20|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908304|UserLayerName.Layer11=16908289|UserLayerName.Layer12=16842751|UserLayerName.Layer13=16908303|UserLayerName.Layer14=16908302|UserLayerName.Layer15=16908308|UserLayerName.Layer16=16908305|UserLayerName.Layer17=16777217|UserLayerName.Layer18=16908306|UserLayerName.Layer19=16973837|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16973848|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16973833|UserLayerName.Layer8=16908307|UserLayerName.Layer9=16973835|DocumentPath=C:\ProgramData\Altium\Altium Designer {B47B5F51-FF2B-4221-B1CD-E8D9D112A8A5}\VaultEditCache\FC243E01-AB67-465F-BC0A-9851E72C6DCF\Released\[ProjectName].PcbDoc
+Configuration1_Item1=AddLayersToGroup.Group_0=0|AddLayersToGroup.Group_1=1|AddLayersToGroup.Group_2=2|AddLayersToGroup.Group_3=3|AddLayersToGroup.Group_4=4|AddLayersToGroup.Group_5=5|AddLayersToGroup.Group_6=7|AddLayersToGroup.Group_7=8|AddLayersToGroup.Set_0=16908289|AddLayersToGroup.Set_1=16908289|AddLayersToGroup.Set_2=16908289|AddLayersToGroup.Set_3=16908289|AddLayersToGroup.Set_4=16908289|AddLayersToGroup.Set_5=16908289|AddLayersToGroup.Set_6=16908289|AddLayersToGroup.Set_7=16908289|AddLayersToGroups.Count=8|AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16908289~1|BoardID=EBPPAWHS|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16777218~1,16777219~1|PlotBoardProfile=True|PlotBoardProfileFileName=[ProjectName].GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=[ProjectName].GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=[ProjectName].GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=[ProjectName].GBO|UserLayerName.Caption1=[ProjectName].GTP|UserLayerName.Caption10=[ProjectName].GM16|UserLayerName.Caption11=[ProjectName].GM1|UserLayerName.Caption12=[ProjectName].GBL|UserLayerName.Caption13=[ProjectName].GM15|UserLayerName.Caption14=[ProjectName].GM14|UserLayerName.Caption15=[ProjectName].GM20|UserLayerName.Caption16=[ProjectName].GM17|UserLayerName.Caption17=[ProjectName].GTL|UserLayerName.Caption18=[ProjectName].GM18|UserLayerName.Caption19=[ProjectName].GBP|UserLayerName.Caption2=[ProjectName].GTO|UserLayerName.Caption3=[ProjectName].GTS|UserLayerName.Caption4=[ProjectName].GM13|UserLayerName.Caption5=[ProjectName].GPT|UserLayerName.Caption6=[ProjectName].GPB|UserLayerName.Caption7=[ProjectName].GKO|UserLayerName.Caption8=[ProjectName].GM19|UserLayerName.Caption9=[ProjectName].GBS|UserLayerName.Count=20|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908304|UserLayerName.Layer11=16908289|UserLayerName.Layer12=16842751|UserLayerName.Layer13=16908303|UserLayerName.Layer14=16908302|UserLayerName.Layer15=16908308|UserLayerName.Layer16=16908305|UserLayerName.Layer17=16777217|UserLayerName.Layer18=16908306|UserLayerName.Layer19=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16973848|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16973837|UserLayerName.Layer8=16908307|UserLayerName.Layer9=16973835|DocumentPath=\\Mac\Home\Documents\GitHub\Capstone PCB\Capstone PCB.PcbDoc
 OutputType2=ODB
 OutputName2=ODB++ Files
 OutputCategory2=Fabrication
@@ -103,7 +103,7 @@ Configuration4_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 [PublishSettings]
 OutputFilePath2=Project Outputs for Free Documents\.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for PRJT-0002-1
+OutputBasePath2=Project Outputs for Capstone PCB
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -128,9 +128,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=
+OutputFilePath3=\\Mac\Home\Documents\GitHub\Capstone PCB\Project Outputs for Capstone PCB\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for PRJT-0002-1
+OutputBasePath3=Project Outputs for Capstone PCB
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -143,7 +143,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for PRJT-0002-1
+OutputBasePath4=Project Outputs for Capstone PCB
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -182,7 +182,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=Project Outputs for Free Documents\.PDF
 OpenOutputs2=1
-RelativeOutputPath3=
+RelativeOutputPath3=\\Mac\Home\Documents\GitHub\Capstone PCB\Project Outputs for Capstone PCB\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
